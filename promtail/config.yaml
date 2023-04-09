@@ -17,6 +17,7 @@ map:
   - share
   - ssl
 watchdog: http://[HOST]:[PORT:9080]/ready
+advanced: true
 ports:
   9080/tcp:
 ports_description:
